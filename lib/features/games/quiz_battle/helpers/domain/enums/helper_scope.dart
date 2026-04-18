@@ -1,0 +1,4 @@
+enum HelperScope {
+  board,
+  round,
+}

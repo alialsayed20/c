@@ -1,0 +1,4 @@
+enum PenaltyTargetType {
+  team,
+  player,
+}

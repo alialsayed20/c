@@ -1,0 +1,71 @@
+﻿{
+  "@@locale": "ar",
+  "appName": "BodiPlay",
+  "appStartupTitle": "بدء تشغيل BodiPlay",
+  "appStartupLoading": "جارٍ التحقق من الجلسة...",
+  "appStartupError": "حدث خطأ أثناء بدء التطبيق",
+  "signInTitle": "تسجيل الدخول",
+  "continueAsGuest": "المتابعة كزائر",
+    "quizBattleTitle": "كويز باتل",
+  "quizBoardNoTeams": "لا توجد فرق بعد",
+  "quizBoardExcluded": "مستبعد",
+  "quizBoardCurrentTurn": "الدور الحالي",
+  "quizBoardWaiting": "بانتظار الدور",
+  "quizBoardCurrentTurnLabel": "الدور الحالي:",
+  "quizBoardAvailableCellsLabel": "الخلايا المتاحة:",
+  "quizBoardNoActiveTeam": "لا يوجد فريق نشط",
+  "quizQuestionRoundTitle": "جولة السؤال",
+  "quizQuestionClosed": "تم إغلاق السؤال",
+  "quizQuestionWaitingResolution": "بانتظار حسم الجولة",
+  "quizQuestionNowAnswering": "يجيب الآن: {teamName}",
+  "@quizQuestionNowAnswering": {
+    "placeholders": {
+      "teamName": {}
+    }
+  },
+  "quizQuestionNoAnswerOrder": "لا يوجد ترتيب للإجابة",
+  "quizQuestionBanned": "ممنوع",
+  "quizQuestionExcluded": "مستبعد",
+  "quizQuestionAnswered": "أجاب",
+  "quizQuestionAnswering": "يجيب الآن",
+  "quizQuestionWaiting": "ينتظر",
+  "quizQuestionPoints": "{value} نقطة",
+  "@quizQuestionPoints": {
+    "placeholders": {
+      "value": {
+        "type": "int"
+      }
+    }
+  },
+  "quizQuestionLive": "سؤال مباشر",
+  "quizQuestionCorrect": "صحيح",
+  "quizQuestionWrong": "خطأ",
+  "quizQuestionClose": "إغلاق السؤال",
+  "quizQuestionLoading": "جارٍ تحميل السؤال...",
+  "quizQuestionUnavailable": "السؤال غير متاح",
+  "quizQuestionLoadFailed": "فشل تحميل السؤال",
+    "quizHelperBlockSteal": "حماية السرقة",
+  "quizHelperDoublePoints": "دبل النقاط",
+  "quizHelperBanTeam": "منع فريق",
+  "quizHelperStealQuestion": "سرقة السؤال",
+  "quizHelperStopPlayer": "إيقاف لاعب",
+    "quizBoardHelpersTitle": "مساعدات البورد",
+    "quizHelperStealSelectTeam": "اختر الفريق الذي سيقوم بالسرقة",
+    "quizHelperStopSelectTeam": "اختر الفريق الذي سيتم إيقافه",
+"quizHelperNoEligibleTeams": "لا توجد فرق مؤهلة للإيقاف",
+"quizResultTitle": "نتيجة المباراة",
+"quizResultNoWinner": "لا يوجد فائز",
+"quizResultWinnerSubtitle": "الفائز: {teamName}",
+"@quizResultWinnerSubtitle": {
+  "placeholders": {
+    "teamName": {}
+  }
+},
+"quizResultClose": "إغلاق",
+"quizResultWinnerLabel": "الفائز",
+"quizResultScoreLabel": "النقاط",
+"quizResultLeaderboardTitle": "الترتيب النهائي",
+"quizResultNoTeams": "لا توجد فرق",
+"quizResultExcluded": "مستبعد",
+"quizResultActive": "نشط"
+}

@@ -1,0 +1,4 @@
+enum BoardActionFailureCode {
+  cellNotFound,
+  cellAlreadyUsed,
+}
