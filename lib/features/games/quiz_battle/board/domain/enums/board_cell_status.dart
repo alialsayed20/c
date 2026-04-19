@@ -1,4 +1,0 @@
-enum BoardCellStatus {
-  available,
-  used,
-}

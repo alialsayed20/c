@@ -1,4 +1,0 @@
-enum SessionMutationFailureCode {
-  teamNotFound,
-  turnAdvanceFailed,
-}

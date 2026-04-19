@@ -1,4 +1,0 @@
-enum PenaltyType {
-  ban,
-  cheating,
-}
